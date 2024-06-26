@@ -10,3 +10,7 @@
 ``` javascript
 var greeting = "Hello, World! (by Xdinary Heroes)";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
